@@ -8,6 +8,6 @@ Colab is a free resource provided by Google that can be used to run Jupyter note
 
 1. Go to the Colab website: https://colab.research.google.com/
 2. Choose Github in the top bar
-3. Type ecs-vlc into the search box and hit enter
+3. Type `ecs-vlc` into the search box and hit enter
 4. Ensure that this repository is selected from the drop down
 5. Get coding!
