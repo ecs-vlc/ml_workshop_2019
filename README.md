@@ -1,4 +1,4 @@
-# Interdisciplinary Workshop on AI 2019
+# Interdisciplinary Workshop on AI 2019 - @ecsvlc
 
 Welcome to the repository for our workshop, part of the festival for doctoral research 2019. The notebooks are grouped into folders according to the skills / tools that they cover. Specifcally these are: Python, scikit-learn and Keras. While it is possible to run the notebooks on your own machine, we recommend opening them in a Colab environment.
 
@@ -10,4 +10,6 @@ Colab is a free resource provided by Google that can be used to run Jupyter note
 2. Choose Github in the top bar
 3. Type `ecs-vlc` into the search box and hit enter
 4. Ensure that this repository is selected from the drop down
-5. Get coding!
+5. Choose a notebook and get coding!
+
+Note - we recommend you select the `copy to drive` button in the top left corner, this will let you save your work in your google drive
