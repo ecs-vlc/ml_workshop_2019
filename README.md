@@ -1,4 +1,4 @@
-# Interdisciplinary Workshop on AI 2019
+# Interdisciplinary Workshop on AI 2019 - @ecsvlc
 
 Welcome to the repository for our workshop, part of the festival for doctoral research 2019. The notebooks are grouped into folders according to the skills / tools that they cover. Specifcally these are: Python, scikit-learn and Keras. While it is possible to run the notebooks on your own machine, we recommend opening them in a Colab environment.
 
