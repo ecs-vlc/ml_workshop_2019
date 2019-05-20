@@ -13,3 +13,15 @@ Colab is a free resource provided by Google that can be used to run Jupyter note
 5. Choose a notebook and get coding!
 
 Note - we recommend you select the `copy to drive` button in the top left corner, this will let you save your work in your google drive
+
+## The notebooks
+### python
+- *Basic:* Introduction to python and machine learning
+### scikit-learn
+- *Easy:* Diabetes prediction - Decision tree classification
+- *Intermediate:* Text classification - K-means, KNN, SVM
+### keras
+- *Advanced:*   
+  - part 1: Digit recognition - CNN
+  - part 2: Boat classification - Transfer learning 
+  - part 3: Sequence classification - RNN
